@@ -89,3 +89,4 @@ ggplot() +
         plot.background = element_blank(),
         plot.margin=unit(c(0,0,0,0), "null"),
         strip.text = element_blank())
+
